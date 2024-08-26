@@ -1,0 +1,28 @@
+.containergraph {
+  background-color: #ffffff;
+  padding: 5vh;
+  padding-bottom: 10vh;
+  padding-top: 2vh;
+  margin: auto;
+  height: 70vh;
+  margin-top: 5vh;
+  margin-left: 2%;
+  margin-right: 2%;
+  font-family: "DM sans";
+}
+
+.chart {
+  height: 60vh;
+}
+
+.titletop {
+  color: #697483 !important;
+  color: var(--Gray---Typography-800, #1b2533);
+  font-feature-settings: "liga" off, "clig" off;
+  font-family: "DM sans";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px; /* 83.333% */
+  letter-spacing: -1px;
+}
